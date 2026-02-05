@@ -29,74 +29,54 @@ Each folder reflects real consultancy work aligned with industry standards and r
 
 ## 📂 Portfolio Structure  
 
-### 🔎 Vulnerability Management  
--<a href="https://docs.google.com/spreadsheets/d/1bFUvWsLGyuE0hgM0w4WL9ZQdx5iZV7_1/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true">Vulnerability Management Dashboard</a>
+- Vulnerability Management  
+- Risk Assessment & Treatment
+- Third-Party Risk and Incident Response
+- ISO 27001 gap analysis and ISMS implementation. 
+- NDP Act Compliance Audit Returns (CAR)
+- Information Security Frameworks
+- DPIA & Privacy Engineering  
+- Training Manuals & Awareness
 
--<a href="https://docs.google.com/document/d/1gHYKSTS1qcN6rw6EpXrBI8_qGzK23fEb/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true">Vulnerability Management Audit Report</a>
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Risk Assessment          | <a href="https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing">Risk Assessment Workbook</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Risk Assessment 2 | <a href="https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing">Risk Assessment Workbook</a>|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### PowerBI
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
+<a href="https://drive.google.com/file/d/1LAuetNMtuZicUDrHTdHlXBHKOJf5c0IS/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/-IIM%20CDPO-2ECC71?&style=for-the-badge&logo=shield&logoColor=white" />
+</a>
 <a href="https://drive.google.com/file/d/1JEeQByl1XLkP3b1yT8cGcCcBRVKe2Tz6/view?usp=sharing">
   <img src="https://img.shields.io/badge/-ISC²_CC-00539F?&style=for-the-badge&logo=isc2&logoColor=white" />
 </a>
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1ae6vSc-ioVb90fcXeY_tw-XPYgN3xxB3/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1rM_Q82oR_XZkg7xFfFvN7JBXCTThka_L/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-ISO%2027001%20LA-8E44AD?&style=for-the-badge&logo=iso&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1qsLTJBvIxwAyj4sGZIRqJTKtY9uTSULc/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-ISO%2042001%20LA-F1C40F?&style=for-the-badge&logo=iso&logoColor=black" />
+</a>
 </div>
 
-Presentations
+---
 
-<img width="1280" height="720" alt="Hardware Security Fundamentals" src="https://github.com/user-attachments/assets/d8b51e2e-9723-4f13-893b-e5ab0f4d87fe" />
-<img width="1280" height="720" alt="DS PRESENTATION" src="https://github.com/user-attachments/assets/c837f382-35f4-45ee-9637-56c0c24777fb" />
+## 🧑‍💼 Who This Portfolio Is For  
 
+- Consulting firms hiring **Information Security Specialists**  
+- Organisations seeking **GRC Analysts / Consultants**  
+- Security teams needing **audit-ready implementation examples**  
+- Recruiters evaluating practical security delivery, not theory  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Test Project
+---
+
+## 📬 Let’s Connect  
+
+If you’re hiring for **Information Security, GRC, or Cybersecurity Consulting roles**, feel free to reach out:  
+
+📧 **sopadeadeola.o@gmail.com**  
+
+Or explore the repository to see how I approach **security, compliance, and operational resilience in practice.**  
+
+---
+
+⭐ If this portfolio is useful, feel free to star the repo.
