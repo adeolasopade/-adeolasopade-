@@ -2,28 +2,15 @@
 
 <a href="https://linkedin.com/in/adeolasopade"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋 Hi, I’m **Adeola Sopade**  
+Hi, I’m **Adeola**😊
 
-**Information Security & GRC Specialist** with 5+ years’ experience delivering audit-ready security across **ISO/IEC 27001, NDPA, GDPR, vendor risk, vulnerability management, DPIAs, and incident response**.  
+An **Information Security & GRC Specialist** with 5+ years’ experience across **ISO/IEC 27001, NDPA, GDPR, DPIAs, vendor risk, vulnerability management, and incident response**, focused on translating regulatory requirements into controls that work in real operational environments.
 
-This repository showcases **46+ real-world consulting deliverables** covering ISMS implementation, risk treatment, CAR audits, third-party assurance, and security governance across regulated environments.  
+This repository contains **46+ real-world consulting deliverables** from regulated organisations, showcasing how I **assess, implement, and operationalise** security, privacy, and risk programs across ISMS, third-party assurance, governance, and resilience—through gap analysis, risk and vendor assessments, audit-ready documentation, and strengthened incident response and privacy maturity.
 
-👉 **Recruiters & consulting firms:** explore the repo and connect if you’re hiring consultants who can **assess, implement, and operationalise security controls.**  
+👉 **Recruiters & consulting firms:** explore the repo if you’re hiring professionals who can design, assess, and run effective security programs.
 
-📫 **Contact:** sopadeadeola.o@gmail.com  
-
----
-
-## 🧭 What You’ll Find Here  
-
-This portfolio demonstrates how I:  
-- Translate regulatory and security requirements into **practical controls**.  
-- Conduct **ISO 27001 gap analysis and ISMS implementation**.  
-- Perform **risk, vulnerability, and vendor assessments**.  
-- Build **audit-ready documentation and governance frameworks**.  
-- Strengthen **incident response, privacy, and resilience maturity**.  
-
-Each folder reflects real consultancy work aligned with industry standards and regulatory expectations.  
+📫 **Contact:** [sopadeadeola.o@gmail.com](mailto:sopadeadeola.o@gmail.com)
 
 ---
 
@@ -60,22 +47,20 @@ Each folder reflects real consultancy work aligned with industry standards and r
 
 ---
 
-## 🧑‍💼 Who This Portfolio Is For  
+## 🧑‍💼 Who This Portfolio Is For
 
-- Consulting firms hiring **Information Security Specialists**  
-- Organisations seeking **GRC Analysts / Consultants**  
-- Security teams needing **audit-ready implementation examples**  
-- Recruiters evaluating practical security delivery, not theory  
+This portfolio is designed for:
+
+* Consulting firms evaluating **practical GRC and security delivery**.
+* Organisations seeking **Information Security or GRC Professionals**.
+* Security leaders looking for **audit-ready implementation examples**.
+* Recruiters who want evidence of execution, not just theory.
 
 ---
 
-## 📬 Let’s Connect  
+## 📬 Let’s Connect: [sopadeadeola.o@gmail.com](mailto:sopadeadeola.o@gmail.com)
 
-If you’re hiring for **Information Security, GRC, or Cybersecurity Consulting roles**, feel free to reach out:  
-
-📧 **sopadeadeola.o@gmail.com**  
-
-Or explore the repository to see how I approach **security, compliance, and operational resilience in practice.**  
+You can also explore the repository to see how I approach **security, compliance, and operational resilience in real environments.**
 
 ---
 
