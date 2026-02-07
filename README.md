@@ -64,4 +64,4 @@ You can also explore the repository to see how I approach **security, compliance
 
 ---
 
-⭐ If this portfolio is useful, feel free to star the repo.
+⭐ If you find this portfolio useful, feel free to star the repo.
