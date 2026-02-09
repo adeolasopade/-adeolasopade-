@@ -4,7 +4,7 @@
 
 Hi, I’m **Adeola**😊
 
-An **Information Security & GRC Specialist** with 5+ years’ experience across **ISO/IEC 27001, NDPA, GDPR, DPIAs, vendor risk, vulnerability management, and incident response**, focused on translating regulatory requirements into controls that work in real operational environments.
+An **Information Security & GRC Specialist** with experience across **ISO/IEC 27001, NDPA, GDPR, DPIAs, vendor risk, vulnerability management, and incident response**, focused on translating regulatory requirements into controls that work in real operational environments.
 
 This repository contains **50+ real-world consulting deliverables** from regulated organisations, showcasing how I **assess, implement, and operationalise** security, privacy, and risk programs across ISMS, third-party assurance, governance, and resilience—through gap analysis, risk and vendor assessments, audit-ready documentation, and strengthened incident response and privacy maturity.
 
