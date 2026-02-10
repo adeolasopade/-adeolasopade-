@@ -16,14 +16,13 @@ This repository contains **50+ real-world consulting deliverables** from regulat
 
 ## 📂 Portfolio Structure  
 
-- Vulnerability Management  
-- Risk Assessment & Treatment
-- Third-Party Risk and Incident Response
-- ISO 27001 gap analysis and ISMS implementation. 
-- NDP Act Compliance Audit Returns (CAR)
-- Information Security Frameworks
-- DPIA & Privacy Engineering  
-- Training Manuals & Awareness
+- [Vulnerability Management Audit](https://github.com/adeolasopade/Vulnerability-Management-Audit)
+- [Risk Assessment & Treatment](https://github.com/adeolasopade/Risk-Assessment-and-Treatment)
+- [Third-Party Risk and Incident Response](https://github.com/adeolasopade/Third-Party-Risk-and-Incident-Reporting)
+- [ISO 27001 Gap Analysis](https://github.com/adeolasopade/ISO-27001-Readiness-Assessment-for-a-Bank) and [ISMS Implementation](https://github.com/adeolasopade/ISO-27001-ISMS-Implementation-for-a-FinTech)
+- [NDP Act Compliance Audit Returns and Information Security Policies](https://github.com/adeolasopade/NDP-Act-Compliance-Audit-Returns-and-Info-Sec-Policies)
+- [DPIA & Privacy Engineering](https://github.com/adeolasopade/DPIA-GETMONI-Digital-Lending-Platform)
+- [Training Manuals & Engagements](https://github.com/adeolasopade/Training-Manuals-and-Engagements)
 
 
 ## Certifications
