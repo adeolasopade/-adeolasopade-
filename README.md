@@ -8,6 +8,8 @@ An **Information Security & GRC Specialist** with experience across **ISO/IEC 27
 
 This repository contains **50+ real-world consulting deliverables** from regulated organisations, showcasing how I **assess, implement, and operationalise** security, privacy, and risk programs across ISMS, third-party assurance, governance, and resilience; through gap analysis, risk and vendor assessments, audit-ready documentation, and strengthened incident response and privacy maturity.
 
+The projects presented here are informed by real-world engagements; however, all deliverables have been independently recreated using synthetic data to reflect practical, audit-ready scenarios. No client documents or proprietary materials are reproduced. All templates are either self-developed or properly licensed.
+
 👉 **Recruiters & consulting firms:** explore the repo if you’re hiring professionals who can design, assess, and run effective security programs.
 
 📫 **Contact:** [sopadeadeola.o@gmail.com](mailto:sopadeadeola.o@gmail.com)
